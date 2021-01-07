@@ -2,6 +2,9 @@ import React, { useState, useEffect } from 'react';
 import * as yup from "yup";
 import './Signup.css';
 import { FcGoogle } from 'react-icons/fc';
+import { useHistory } from "react-router-dom";
+import { IoIosArrowBack } from 'react-icons/io';
+
 
 // configure schema 
 const signupSchema = yup.object().shape({
@@ -101,6 +104,10 @@ export default function Signup() {
         setObject[name](value);
         //ex:- setObject[Email]=>>setEmail(new value)so state will change with new value 
     }
+    let history = useHistory();
+    function handleClick() {
+        history.push("/LoginPage");
+    }
     return (
         <div className="direction">
             <div className="info">
@@ -121,6 +128,10 @@ export default function Signup() {
                 </div>
             </div>
             <div>
+                <div className="back">
+                    <IoIosArrowBack />
+                    <a href="/" onClick={handleClick}>Back </a>
+                </div>
 
                 <form onSubmit={handleSubmit}>
                     <div className="line2">
