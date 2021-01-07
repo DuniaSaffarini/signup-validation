@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/signup-validation/static/css/main.70810636.chunk.css",
-    "main.js": "/signup-validation/static/js/main.0b1c2b44.chunk.js",
-    "main.js.map": "/signup-validation/static/js/main.0b1c2b44.chunk.js.map",
-    "runtime-main.js": "/signup-validation/static/js/runtime-main.6b01cddc.js",
-    "runtime-main.js.map": "/signup-validation/static/js/runtime-main.6b01cddc.js.map",
-    "static/js/2.ab88c607.chunk.js": "/signup-validation/static/js/2.ab88c607.chunk.js",
-    "static/js/2.ab88c607.chunk.js.map": "/signup-validation/static/js/2.ab88c607.chunk.js.map",
-    "static/js/3.a7b5be43.chunk.js": "/signup-validation/static/js/3.a7b5be43.chunk.js",
-    "static/js/3.a7b5be43.chunk.js.map": "/signup-validation/static/js/3.a7b5be43.chunk.js.map",
+    "main.css": "/signup-validation/static/css/main.700867ef.chunk.css",
+    "main.js": "/signup-validation/static/js/main.10869684.chunk.js",
+    "main.js.map": "/signup-validation/static/js/main.10869684.chunk.js.map",
+    "runtime-main.js": "/signup-validation/static/js/runtime-main.f1eb2ad1.js",
+    "runtime-main.js.map": "/signup-validation/static/js/runtime-main.f1eb2ad1.js.map",
+    "static/js/2.a6fe406b.chunk.js": "/signup-validation/static/js/2.a6fe406b.chunk.js",
+    "static/js/2.a6fe406b.chunk.js.map": "/signup-validation/static/js/2.a6fe406b.chunk.js.map",
+    "static/js/3.44129092.chunk.js": "/signup-validation/static/js/3.44129092.chunk.js",
+    "static/js/3.44129092.chunk.js.map": "/signup-validation/static/js/3.44129092.chunk.js.map",
     "index.html": "/signup-validation/index.html",
-    "static/css/main.70810636.chunk.css.map": "/signup-validation/static/css/main.70810636.chunk.css.map",
-    "static/js/2.ab88c607.chunk.js.LICENSE.txt": "/signup-validation/static/js/2.ab88c607.chunk.js.LICENSE.txt",
+    "static/css/main.700867ef.chunk.css.map": "/signup-validation/static/css/main.700867ef.chunk.css.map",
+    "static/js/2.a6fe406b.chunk.js.LICENSE.txt": "/signup-validation/static/js/2.a6fe406b.chunk.js.LICENSE.txt",
     "static/media/Signup.css": "/signup-validation/static/media/img1.448b03ee.png",
     "static/media/Login.css": "/signup-validation/static/media/img2.899607da.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b01cddc.js",
-    "static/js/2.ab88c607.chunk.js",
-    "static/css/main.70810636.chunk.css",
-    "static/js/main.0b1c2b44.chunk.js"
+    "static/js/runtime-main.f1eb2ad1.js",
+    "static/js/2.a6fe406b.chunk.js",
+    "static/css/main.700867ef.chunk.css",
+    "static/js/main.10869684.chunk.js"
   ]
 }
